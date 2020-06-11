@@ -10,6 +10,8 @@
 
 [helm 部署](helm-deploy-docs.md)
 
+[helm 安装](helm-install.md)
+
 ## 实操部分
 
 [玩转 helm](https://github.com/chenqiangzhishen/helm-chart-creation-tutorial)
